@@ -1,0 +1,18 @@
+# Your Homework for Day 3 of the LIVE JavaScript Challenge 🚀
+# WE ARE SO CLOSE TO FINISHING THIS EPIC GOOGLE MAPS APP! 💯.
+# IT ALREADY LOOKS INSANE FROM OUR LIVE CALL TODAY! 😱SO MUCH PROGRESS!
+# Here is your homework below👇
+1. **Style** the maps marker info window to look like the one in the image: https://drive.google.com/…/1KtMaFoN07bJQtKvKME_YMOoVc…/view…
+1. **Change **the style of the marker on the map(GET CREATIVE)😉
+1. **Style** your Google Map. You can use this for reference: [https://developers.google.com/…/document…/javascript/styling](https://developers.google.com/…/document…/javascript/styling)
+1. **BONUS **Link the address in the info window to Google Maps. Link for reference: https://developers.google.com/maps/documentation/urls/guide
+1. **SCREENSHOT** your app
+1. **FILM VIDEO** of you clicking on the address in the info window and linking to Google Maps Directions
+1. **UPLOAD** it to Facebook Post HERE as a **COMMENT** below
+
+Here is the code from today:
+
+https://github.com/CleverProgrammers/google-maps-challenge
+# Awesome JOB on DAY 3!
+# SEE YOU GUYS TOMORROW!
+# LETS GOOOOOOOOOO! 🚀
